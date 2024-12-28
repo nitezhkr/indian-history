@@ -10,6 +10,7 @@ const DailyFactsSlider = () => {
     { id: '3', fact: 'India has been the birthplace of four major world religions: Hinduism, Buddhism, Jainism, and Sikhism.' },
     { id: '4', fact: 'The ancient Nalanda University was one of the first great universities in recorded history.' },
     { id: '5', fact: 'Chess, known as “Chaturanga,” originated in India.' },
+    // Add more facts
   ];
 
   const renderFact = ({ item }) => (
